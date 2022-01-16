@@ -1,0 +1,7 @@
+{
+"name": "Slow down commands",
+"creator": "&1Whitebone",
+"description":"Removes the Sending commands too fast message",
+"version" "0.0.1",
+"entry": "index.js"
+}
